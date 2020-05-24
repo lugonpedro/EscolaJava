@@ -1,2 +1,2 @@
-# cursojava
-java+sql project
+# EscolaJava
+Project made for university in eclipse with windowbuilder
